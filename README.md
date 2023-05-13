@@ -12,21 +12,42 @@ Brief description or tagline of your project
 - [Credits](#credits)
 - [Contact](#contact)
 
-## Installation and usage 
+## Installation 
 
 To use this repository, you'll need to have Python and its dependencies installed on your machine. Follow these steps to get started:
 
 1. Clone the repository to your local machine using the following command:
-
 ```bash
 git clone https://github.com/ViktorLaurens/MA1_Project.git
 ```
+
+2. Navigate to the root directory of the cloned repository:
+```bash
 cd MA1_Project
-python main.py
+```
 
 ## Usage
 
-Provide instructions on how to use your project. Include examples, code snippets, or screenshots to demonstrate its functionality.
+To launch the simulation for the motion planning algorithms in the "RRT_variants" folder, follow these steps:
+
+1. Ensure you are in the root directory of the cloned repository.
+
+2. Run the following command to execute the main script:
+```bash
+python main.py
+```
+
+This will start the simulation and execute the main function, which launches the motion planning algorithms.
+
+**Note:** Make sure you have all the necessary dependencies installed. If any required libraries are missing, you may need to install them using pip or any package manager you prefer.
+
+3. Explore the simulation and observe the motion planning algorithms in action. The program may generate output or display visualizations based on its implementation.
+
+4. Feel free to modify the code in the .py files, including the "main.py" file and the files within the "RRT_variants" folder, to experiment with different algorithms or customize the behavior as needed.
+
+5. After making changes, rerun the `python main.py` command to see the updated simulation results.
+
+That's it! You can now use and explore the motion planning algorithms by running the main script in the repository. Remember to check the README or documentation within the repository for any additional instructions or details specific to the project.
 
 ## Features
 
