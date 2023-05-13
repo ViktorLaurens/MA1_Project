@@ -78,8 +78,6 @@ Comprehensive documentation explaining the theoretical foundations and implement
 
 ## License
 
-## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for any purpose, both commercially and non-commercially. The license text can be found in the [LICENSE](LICENSE) file.
