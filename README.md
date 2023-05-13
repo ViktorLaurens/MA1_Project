@@ -18,8 +18,10 @@ To use this repository, you'll need to have Python and its dependencies installe
 
 1. Clone the repository to your local machine using the following command:
 
-
-'git clone https://github.com/ViktorLaurens/MA1_Project.git'
+```bash
+git clone https://github.com/ViktorLaurens/MA1_Project.git
+cd MA1_Project
+python main.py
 
 ## Usage
 
