@@ -67,8 +67,9 @@ This repository provides the following features:
 
 ### 3. Configuration and Customization
 - **Parameter Tuning**: Allows users to configure various parameters of the motion planning algorithms to adapt them to specific scenarios.
-- **Algorithm Comparison**: Provides tools for comparing the performance and efficiency of different motion planning algorithms.
 - **Algorithm Extension**: Offers a modular architecture that enables users to extend the repository with additional motion planning algorithms.
+- **Does not yet include**: 
+  - **Algorithm Comparison**: Provides tools for comparing the performance and efficiency of different motion planning algorithms.
 
 ## Documentation
 
