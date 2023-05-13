@@ -20,6 +20,7 @@ To use this repository, you'll need to have Python and its dependencies installe
 
 ```bash
 git clone https://github.com/ViktorLaurens/MA1_Project.git
+```
 cd MA1_Project
 python main.py
 
