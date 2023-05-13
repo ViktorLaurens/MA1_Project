@@ -12,9 +12,13 @@ Brief description or tagline of your project
 - [Credits](#credits)
 - [Contact](#contact)
 
-## Installation
+## Installation and usage 
 
-Explain how to install and set up your project. Include any dependencies or requirements.
+To use this repository, you'll need to have Python and its dependencies installed on your machine. Follow these steps to get started:
+
+1. Clone the repository to your local machine using the following command:
+
+'''git clone https://github.com/ViktorLaurens/MA1_Project.git'''
 
 ## Usage
 
