@@ -1,6 +1,6 @@
 # MA1 Project: Adaptive Extension Bidirectional RRT for MRS
 
-This project serves as an initial introduction and comprehensive exploration of task and motion planning, laying the groundwork for further investigation. Different variants of RRT are implemented in python including RRT itself, its bidirectional variant (BiRRT) and the extended version of this for multi_robot systems (MRS) without and without priority based planning. In this project adaptive extension is introduced to standard BiRRT extended for the use of MRSs. This means that the length of new edges to expand the tree with changes based upon a certain logic such as the density of obstacles in the neighborhood of new nodes. This algorithm is found in ```python BiRRT_MRS_P_DE.py```. 
+This project serves as an initial introduction and comprehensive exploration of task and motion planning, laying the groundwork for further investigation. Different variants of RRT are implemented in python including RRT itself, its bidirectional variant (BiRRT) and the extended version of this for multi_robot systems (MRS) without and without priority based planning. In this project adaptive extension is introduced to standard BiRRT extended for the use of MRSs. This means that the length of new edges to expand the tree with changes based upon a certain logic such as the density of obstacles in the neighborhood of new nodes. This algorithm is found in ```BiRRT_MRS_P_DE.py```. 
 
 ## Table of Contents
 - [Installation](#installation)
