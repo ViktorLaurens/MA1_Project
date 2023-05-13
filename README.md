@@ -51,27 +51,48 @@ That's it! You can now use and explore the motion planning algorithms by running
 
 ## Features
 
-List the key features and functionalities of your project.
+This repository provides the following features:
+
+### 1. Motion Planning Algorithms
+- **RRT (Rapidly-Exploring Random Trees)**: Implements the RRT algorithm for motion planning in robotics.
+- **BiRRT (Bidirectional Rapidly-Exploring Random Trees)**: Includes an enhanced version of the RRT algorithm with trees expanding from both the starting configuration and goal configuration.
+- - **MRS-BiRRT (Rapidly-Exploring Random Trees for Multi-Robot Systems)**: Offers the extension of BiRRT for planning the path of multiple robots with and without priority planning (collision avoidance has yet to be implemented in all these versions). 
+- **DE-MRS-BiRRT (better: AE-MRS-BiRRT)**: Implements adaptive extension to the MRS-BiRRT.
+
+### 2. Simulation Environment
+- **Visualization**: Provides a 2D simulation environment for visualizing the motion planning algorithms.
+**Does not yet include: 
+- **Obstacle Generation**: Tools for generating random obstacles within the simulation environment.
+- **Path Evaluation**: Allows evaluation of the generated paths in terms of optimality, smoothness, and collision avoidance.
+
+### 3. Configuration and Customization
+- **Parameter Tuning**: Allows users to configure various parameters of the motion planning algorithms to adapt them to specific scenarios.
+- **Algorithm Comparison**: Provides tools for comparing the performance and efficiency of different motion planning algorithms.
+- **Algorithm Extension**: Offers a modular architecture that enables users to extend the repository with additional motion planning algorithms.
 
 ## Documentation
 
-Provide links or instructions for accessing additional documentation, such as a separate documentation website, a wiki page, or relevant articles and tutorials.
+Comprehensive documentation explaining the theoretical foundations and implementation details of the motion planning algorithms can be found here: 
+[Establishing_and_implementation_of_multi_agent_motion_planning_algorithms_for_simultaneous_operation_of_a_dual_arm_robotic_system (1).pdf](https://github.com/ViktorLaurens/MA1_Project/files/11470049/Establishing_and_implementation_of_multi_agent_motion_planning_algorithms_for_simultaneous_operation_of_a_dual_arm_robotic_system.1.pdf)
 
 ## License
 
-Specify the license under which your project is released. For example, you can use the following:
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributing
+The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for any purpose, both commercially and non-commercially. The license text can be found in the [LICENSE](LICENSE) file.
 
-If you welcome contributions, outline the guidelines for contributing to your project. Include information on submitting bug reports, feature requests, or pull requests. Specify any coding style requirements or development environment setup instructions.
+### Permissions
+- Commercial use: ✔️
+- Modification: ✔️
+- Distribution: ✔️
+- Private use: ✔️
 
-## Credits
+### Limitations
+- Liability: ❌
+- Warranty: ❌
 
-Acknowledge and give credit to any individuals, projects, or resources that have influenced or contributed to your project.
+By using this software, you agree to the terms and conditions of the MIT License.
 
-## Contact
-
-Provide a way for users to contact you or the project maintainer. You can include your email address, social media handles, or a link to a contact form.
-
+For more information about the MIT License, please visit [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
