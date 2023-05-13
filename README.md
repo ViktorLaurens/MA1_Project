@@ -74,7 +74,8 @@ This repository provides the following features:
 ## Documentation
 
 Comprehensive documentation explaining the theoretical foundations and implementation details of the motion planning algorithms can be found here: 
-[Establishing_and_implementation_of_multi_agent_motion_planning_algorithms_for_simultaneous_operation_of_a_dual_arm_robotic_system (1).pdf](https://github.com/ViktorLaurens/MA1_Project/files/11470049/Establishing_and_implementation_of_multi_agent_motion_planning_algorithms_for_simultaneous_operation_of_a_dual_arm_robotic_system.1.pdf)
+[MA1_Project__Introducing_Adaptive_Extension_to_Bidirectional_Rapidly_Exploring__Random_Trees_for_Multi_Robot_Systems.pdf](https://github.com/ViktorLaurens/MA1_Project/files/11470170/MA1_Project__Introducing_Adaptive_Extension_to_Bidirectional_Rapidly_Exploring__Random_Trees_for_Multi_Robot_Systems.pdf)
+
 
 ## License
 
