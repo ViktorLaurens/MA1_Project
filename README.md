@@ -61,9 +61,9 @@ This repository provides the following features:
 
 ### 2. Simulation Environment
 - **Visualization**: Provides a 2D simulation environment for visualizing the motion planning algorithms.
-**Does not yet include: 
-- **Obstacle Generation**: Tools for generating random obstacles within the simulation environment.
-- **Path Evaluation**: Allows evaluation of the generated paths in terms of optimality, smoothness, and collision avoidance.
+- **Does not yet include**: 
+  - **Obstacle Generation**: Tools for generating random obstacles within the simulation environment.
+  - **Path Evaluation**: Allows evaluation of the generated paths in terms of optimality, smoothness, and collision avoidance.
 
 ### 3. Configuration and Customization
 - **Parameter Tuning**: Allows users to configure various parameters of the motion planning algorithms to adapt them to specific scenarios.
