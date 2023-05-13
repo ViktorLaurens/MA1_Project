@@ -1,6 +1,6 @@
 # MA1 Project: Adaptive Extension Bidirectional RRT for MRS
 
-Brief description or tagline of your project
+This project serves as an initial introduction and comprehensive exploration of task and motion planning, laying the groundwork for further investigation. 
 
 ## Table of Contents
 - [Installation](#installation)
